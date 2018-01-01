@@ -12,7 +12,7 @@ Download and install the latest [Node.JS](https://nodejs.org/en/download/)
 `npm install --save stellar-base`
 
 #### Application
-To create keys and send to a file `cd system_procedures` and then `node a_create_keys_to_file.js'. 
+To create keys and send to a file `cd system_procedures` and then `node a_create_keys_to_file.js`. 
 
 To read the keys from file and use them to create the account run `node b_create_account_on_network.js`.
 
