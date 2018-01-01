@@ -1,0 +1,5 @@
+Keypair {
+  type: 'ed25519',
+  _secretSeed: <Buffer 34 71 1e 82 74 3c 1f 20 15 c9 cc f5 82 24 8d 1b 9e 7d 7a fc 26 14 0d d3 57 56 ff 7d 66 67 89 69>,
+  _secretKey: <Buffer 34 71 1e 82 74 3c 1f 20 15 c9 cc f5 82 24 8d 1b 9e 7d 7a fc 26 14 0d d3 57 56 ff 7d 66 67 89 69 43 29 84 2f 33 5f aa da cb b4 fb f0 a6 06 42 cb 54 9d ... >,
+  _publicKey: <Buffer 43 29 84 2f 33 5f aa da cb b4 fb f0 a6 06 42 cb 54 9d d8 74 4f b4 f8 ee fa 58 50 81 19 ae 1d 6f> }
