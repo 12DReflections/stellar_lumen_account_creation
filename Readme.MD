@@ -18,4 +18,4 @@ To read the keys from file and use them to create the account run `node b_create
 
 To read the public key from file to check your account balance run `node b_create_account_on_network.js`.
 
-While a library should be made in the future with this code, it helped to pass the hurdle when starting to use the SDK that all of the examples required the generation of a new Keypair. Have fun!
+While a library should be made in the future with this code, it helped to pass the hurdle when starting to use the SDK that all of the examples required the generation of a new Keypair. The keys online are for the test account, make sure to not store live keys in public. And have fun! 
