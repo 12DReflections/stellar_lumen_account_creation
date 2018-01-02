@@ -3,8 +3,13 @@ StellarSdk.Network.useTestNetwork();
 var server = new StellarSdk.Server('https://horizon-testnet.stellar.org');
 
 
-// Import class file
-//https://stackoverflow.com/questions/19470107/node-js-include-class-file
+// Check recieving account exists
+
+var KeyPair = require('./Keypair');
+
+path_k = __dirname + "/user_p_key.txt";
+
+var pair = new KeyPair();
 
 
 var sourceKeys = StellarSdk.Keypair
